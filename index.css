@@ -1,0 +1,525 @@
+
+body{
+    background-image: url("aman.jpg");
+    background-repeat: no-repeat;
+    width: 98%;
+    height: 97vh;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.rt{
+    color: rgb(255, 255, 255);
+      font-family: cursive;
+  font-weight: 900;
+ 
+    text-align: center;
+  display:flex;
+  justify-self: center;
+  flex-direction: column;
+
+}
+.at{
+    color: rgb(93, 21, 228);
+}
+ .am{
+    color: rgb(93, 21, 228);
+ }
+ .pp{
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+font-weight: 900;
+
+  text-align: center;
+display:flex;
+justify-self: center;
+flex-direction: column;
+ }
+ .r3{
+    display:flex;
+justify-self: center;
+flex-direction: column;
+ }
+ .rl{
+     
+     position: relative;
+     bottom: -60px;
+    }
+ .gan{
+
+    display:flex;
+    flex-direction: row-reverse;
+    justify-self: left;
+    justify-content: flex-end; 
+    flex-wrap: wrap-reverse; 
+ }
+.e3{
+   
+    border-radius: 60%;
+    display:flex;
+    flex-direction: row-reverse;
+   position: absolute;
+   left: 135vh;
+   top: 25%;
+}
+.ayush{
+    
+    display: flex;
+ flex-direction: row;
+ justify-content:flex-end;
+    flex-wrap: wrap;
+    height: 200px;
+}
+.shhh{
+ font-family: cursive;
+    }
+   #tut2{
+    background:  linear-gradient(rgb(0, 0, 0), rgb(0, 60, 255));
+    width: 400px;
+    height: 80px;
+    color: #fff;
+    text-align: center;
+    font-family: cursive;
+    font-size: 25px;
+   }
+.dd{
+  
+    text-align: center;
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 60, 255));
+    color: rgb(255, 255, 255);
+    width: 300px;
+    height: 50px;
+    border-radius: 20%;
+    position: relative;
+    right: -250px;
+    bottom: 8%;
+}
+.st{
+    font-family: cursive;
+    color: rgb(255, 255, 255);
+    position: relative;
+    bottom: -11px;
+}
+.ft{
+ 
+    text-align: center;
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 60, 255));
+    color: rgb(255, 255, 255);
+    width: 300px;
+    height: 50px;
+    border-radius: 20%;
+    position: relative;
+    right: -250px;
+}
+.ww{
+    font-family: cursive;
+    color: rgb(255, 255, 255);
+    position: relative;
+    bottom: -11px;   
+}
+.tt{
+  
+    text-align: center;
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 60, 255));
+    color: rgb(255, 255, 255);
+    width: 300px;
+    height: 50px;
+    border-radius: 20%;
+    position: relative;
+    right: -250px;
+    bottom: -15px;
+}
+.qq{
+    font-family: cursive;
+    color: rgb(255, 255, 255);
+    position: relative;
+    bottom: -11px;
+}
+.rr{
+ 
+    text-align: center;
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 60, 255));
+    color: rgb(255, 255, 255);
+    width: 300px;
+    height: 50px;
+    border-radius: 20%;
+    position: relative;
+    right: -600px;
+    bottom: 170px;
+}
+.cc{
+    font-family: cursive;
+    color: rgb(255, 255, 255);
+    position: relative;
+    bottom: -11px;
+}
+.mm{
+  
+   
+    text-align: center;
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 60, 255));
+    color: rgb(255, 255, 255);
+    width: 300px;
+    height: 50px;
+    border-radius: 20%;
+    position: relative;
+    right: -600px;
+    bottom: 150px; 
+}
+.jj{
+    font-family: cursive;
+    color: rgb(255, 255, 255);
+    position: relative;
+    bottom: -11px;   
+}
+.nn{
+
+    text-align: center;
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 60, 255));
+    color: rgb(255, 255, 255);
+    width: 300px;
+    height: 50px;
+    border-radius: 20%;
+    position: relative;
+    right: -600px;
+    bottom: 134px; 
+}
+.tr{
+    font-family: cursive;
+    color: rgb(255, 255, 255);
+    position: relative;
+    bottom: -11px;
+}
+.ll{
+    display:flex;
+    justify-self: right;
+    flex-direction:column; 
+   
+}
+.uu{
+    display:flex;
+    justify-self: center;
+    flex-direction: column; 
+    border: 10px solid rgb(218, 213, 213);
+    background-color: rgb(218, 213, 213);
+    width: 440px;
+    border-radius: 5%;
+    font-family: cursive;
+    position: relative;
+    right: -350px;
+    bottom: 440px;
+    text-align: center;
+    background-image: url(ayush.png);
+    background-repeat: no-repeat;
+   
+}
+.tut{
+    border: 10px solid linear-gradient(rgb(0, 0, 0), rgb(0, 60, 255));
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 60, 255));
+    border-radius: 100%;
+    width: 50px;
+    position: relative;
+    bottom: 55px;
+    right: -190px;
+color: #fff;
+}
+.qwe{
+    position: relative;
+    top: 250px;
+}
+.xx{
+    border: 10px solid linear-gradient(rgb(0, 0, 0), rgb(0, 60, 255));
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 60, 255));
+    width: 459px;
+    height: 100px;
+    border-radius: 5%;
+    font-family: cursive;
+    position: relative;
+    right: -350px;
+    bottom: 470px;
+    text-align: center;  
+    color: #fff;
+}
+.q1{
+    position: relative;
+    bottom: 60px;
+}
+#tt{
+    position: relative;
+    right: 175px;
+}
+#ee{
+    position: relative;
+    bottom: 65px;
+    right: -100px;
+}
+#wp{
+    color:#fff;
+   
+}
+#e4{
+    color:  rgb(93, 21, 228);
+}
+
+    .ama span{
+        color: #fff;
+        text-decoration: none;
+    }
+    #wv{
+        font-style: italic;
+        text-decoration: line-through;
+       
+    }
+.isha{
+    position: absolute;
+    font-family: cursive;
+    color: #fff;
+    bottom: -60%;
+    right: 40%;
+}
+#isha{
+    color: rgb(7, 47, 226);
+}
+.raw{
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 60, 255));
+    font-family: cursive;
+    color:#fff;
+    height: 250px;
+    width: 350px;
+position: relative;
+bottom: -20%;
+left: 20%;
+border-radius:1% ;
+}
+.ans{
+    color: rgb(0, 47, 255);
+}
+#w2{
+    color: rgb(173, 173, 173);
+    position: relative;
+    bottom: -39%;
+}
+
+.sha {
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 60, 255)) ;
+    height: 250px; 
+    position: relative;
+    bottom: 68%;
+    left: 340px;
+}
+.sha {
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 60, 255)) ;
+    height: 250px; 
+    position: relative;
+    bottom: 68%;
+    left: 340px;
+}
+#w10{
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 60, 255)) ;
+    height: 250px; 
+    position: relative;
+    bottom: 58%;
+    left: 340px;
+}
+#w11{
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 60, 255)) ;
+    height: 250px; 
+    position: relative;
+    bottom: 68%;
+    left: 340px;
+}
+.raow{
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 60, 255));
+    font-family: cursive;
+    color:#fff;
+    height: 250px;
+    width: 350px;
+position: relative;
+bottom: 90%;
+left: 61%;
+border-radius:1% ;
+}
+#w12{
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 60, 255)) ;
+    height: 250px; 
+    position: relative;
+    bottom: 57%;
+    left: 340px;
+}
+#w13{
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 60, 255)) ;
+    height: 250px; 
+    position: relative;
+    bottom: 47%;
+    left: 340px;
+}
+#w14{
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 60, 255)) ;
+    height: 250px; 
+    position: relative;
+    bottom: 57%;
+    left: 340px;
+}
+.raaw{
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 60, 255));
+    font-family: cursive;
+    color:#fff;
+    height: 250px;
+    width: 350px;
+position: relative;
+bottom: 90%;
+left: 40%;
+border-radius:1% ;
+}
+#w15{
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 60, 255)) ;
+    height: 250px; 
+    position: relative;
+    bottom: 46.5%;
+    left: 340px;
+}
+.q12{
+    color: #fff;
+    position: relative;
+    bottom: 80%;
+    text-align: center;
+    font-family: cursive;
+    font-weight: 900;
+}
+.w30{
+    color: rgb(38, 0, 255);
+}
+.aman{
+    color:#fff;
+    position: relative;
+    bottom: 80%;
+    text-align: center;
+    font-family: cursive;
+    font-weight: 900;
+}
+#w19{
+    color: rgb(38, 0, 255);
+}
+.w16{
+    border: white solid 1px;
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 60, 255));
+    width: 300px;
+    height: 250px;
+    border-radius: 10%;
+position: relative;
+top: 10vh;
+right: -25vh;
+}
+#ammm{
+  
+    display: grid;
+    height: 50px;
+    width: 200px;
+   background-color: white;
+    margin: auto;
+    left: 1%;
+    right: 0;
+    top: 30%;
+place-items: center;
+font-family:'Times New Roman', Times, serif;
+color: rgb(0, 0, 0);
+font-size: 20px;
+font-weight: 1000;
+text-decoration: none;
+letter-spacing: 3px;
+border-radius: 50px;
+position: relative;
+top: 19px;
+}
+#w20{
+    
+    display: grid;
+    height: 50px;
+    width: 200px;
+   background-color: white;
+    margin: auto;
+    left: 1%;
+    right: 0;
+    top: 30%;
+place-items: center;
+font-family:'Times New Roman', Times, serif;
+color: rgb(0, 0, 0);
+font-size: 20px;
+font-weight: 1000;
+text-decoration: none;
+letter-spacing: 3px;
+border-radius: 50px;
+position: relative;
+top: 19px; 
+}
+.w17{
+    border: white solid 1px;
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 60, 255));
+    width: 300px;
+    height: 250px;
+    border-radius: 10%;
+position: relative;
+top: -27vh;
+right: -45vh;
+}
+.w41{
+    border: white solid 1px;
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 60, 255));
+    width: 300px;
+    height: 250px;
+    border-radius: 10%;
+position: relative;
+top: -23vh;
+right: -120vh;
+}
+#w41{
+    
+    display: grid;
+    height: 50px;
+    width: 200px;
+   background-color: white;
+    margin: auto;
+    left: 1%;
+    right: 0;
+    top: 30%;
+place-items: center;
+font-family:'Times New Roman', Times, serif;
+color: rgb(0, 0, 0);
+font-size: 20px;
+font-weight: 1000;
+text-decoration: none;
+letter-spacing: 3px;
+border-radius: 50px;
+position: relative;
+top: 19px; 
+}
+.w43{
+    border: white solid 1px;
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 60, 255));
+    width: 300px;
+    height: 250px;
+    border-radius: 10%;
+position: relative;
+top: -23vh;
+right: -120vh;
+}
+#w42{
+    
+    display: grid;
+    height: 50px;
+    width: 200px;
+   background-color: white;
+    margin: auto;
+    left: 1%;
+    right: 0;
+    top: 30%;
+place-items: center;
+font-family:'Times New Roman', Times, serif;
+color: rgb(0, 0, 0);
+font-size: 20px;
+font-weight: 1000;
+text-decoration: none;
+letter-spacing: 3px;
+border-radius: 50px;
+position: relative;
+top: 19px; 
+}
